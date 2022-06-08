@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yoww-frontend/static/css/main.de08eb5e.chunk.css",
+    "main.js": "/yoww-frontend/static/js/main.62db615e.chunk.js",
+    "main.js.map": "/yoww-frontend/static/js/main.62db615e.chunk.js.map",
+    "runtime-main.js": "/yoww-frontend/static/js/runtime-main.0fe8a859.js",
+    "runtime-main.js.map": "/yoww-frontend/static/js/runtime-main.0fe8a859.js.map",
+    "static/js/2.ac39718f.chunk.js": "/yoww-frontend/static/js/2.ac39718f.chunk.js",
+    "static/js/2.ac39718f.chunk.js.map": "/yoww-frontend/static/js/2.ac39718f.chunk.js.map",
+    "static/js/3.daa4540a.chunk.js": "/yoww-frontend/static/js/3.daa4540a.chunk.js",
+    "static/js/3.daa4540a.chunk.js.map": "/yoww-frontend/static/js/3.daa4540a.chunk.js.map",
+    "index.html": "/yoww-frontend/index.html",
+    "static/css/main.de08eb5e.chunk.css.map": "/yoww-frontend/static/css/main.de08eb5e.chunk.css.map",
+    "static/js/2.ac39718f.chunk.js.LICENSE.txt": "/yoww-frontend/static/js/2.ac39718f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fe8a859.js",
+    "static/js/2.ac39718f.chunk.js",
+    "static/css/main.de08eb5e.chunk.css",
+    "static/js/main.62db615e.chunk.js"
+  ]
+}
